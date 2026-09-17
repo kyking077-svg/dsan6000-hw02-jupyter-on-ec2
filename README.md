@@ -1,7 +1,7 @@
 # DSAN 6000 Homework 2: Jupyter on EC2
 
 **Due Friday, September 18, 5:59pm EDT**
-
+ah I have to write final submission
 > [!WARNING]
 > If you have cloned the repository **template** from the `https://github.com/jpowerj/dsan6000-hw02-jupyter-on-ec2` URL, you are **not starting the assignment correctly!** That is, if the command you used to clone the repo onto EC2 looks like:
 > 
